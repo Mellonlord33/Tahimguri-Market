@@ -1,0 +1,7 @@
+main:
+  - title: "Items & Pricing"
+    url: /items_sold/
+  - title: "Order Now!"
+    url: /order_now/
+  - title: "About"
+    url: /about/
