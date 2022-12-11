@@ -3,5 +3,5 @@ main:
     url: /items_sold/
   - title: "Order Now!"
     url: /order_now/
-  - title: "About"
-    url: /about/
+  - title: "About Us"
+    url: /about_us/
