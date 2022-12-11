@@ -75,5 +75,5 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 | $20 | Tea |
 | $50 | Sweet Tea |
 | $50 | Chocolate Cinnamon Tea |
-| $150 | Forest Berry Tea |
+| $50 | Forest Berry Tea |
 | $120 | Kombuncha | 
