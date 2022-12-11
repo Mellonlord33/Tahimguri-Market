@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tahimaguri Marketplace
+title: Tahimguri Marketplace
 subtitle: "Easy Buying, No Hassle"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -60,7 +60,7 @@ footer:
   links:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/M5a8jWfY"
+      url: "https://discord.gg/SwcQ9pfYaP"
 
 defaults:
   # _posts
