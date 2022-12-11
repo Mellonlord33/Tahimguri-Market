@@ -1,14 +1,18 @@
 ---
 permalink: /items/pots/
-title: "Pots"
+title: "Potions"
+---
 ---
 
-asagd
-as
-g
-ga
-g
-g
+**NOTICE:**<br>
+Any Splash Potions brought will increase the price of any brew by $70. All prices presented are for buying a **single** potion of that type.
 
+| $150 | \| Health II |
+| $60 | \| Swiftness II |
+| $150 | \| Strength II |
+| $175 | \| Harming II |
+| $40 | \| Water Breathing+ |
+| $150 | \| Fire Resistance+ |
+| $40 | \| Weakness+ |
 
-gadsgzfg
+*Please give at least a weeks notice for any large orders that will need to be done in time for any event (Be it war, competition, etc).*
