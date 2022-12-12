@@ -10,7 +10,7 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 <h2>Specialty Drinks</h2>
 
 | $200 | Kin-Soju |
-| $500 | Dragon's Breath <br> **Warning: Very dangerous** |
+| $500 | Serpent's Fire <br> **Warning: Very dangerous** |
 | $400 | Knight's Strength |
 
 <h2>Apple Ciders</h2>
