@@ -7,6 +7,8 @@ title: "Brews"
 **NOTICE:**<br>
 All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju" will cost $400.
 
+*All Deliveries / Dead Drop Purchases will include a 10% fee.*
+
 <h2>Specialty Drinks</h2>
 
 | $200 | Kin-Soju |
