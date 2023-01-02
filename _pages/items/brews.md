@@ -10,8 +10,8 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 <h2>Specialty Drinks</h2>
 
 | $200 | Kin-Soju |
-| $500 | Serpent's Fire <br> **Warning: Very dangerous** |
-| $400 | Knight's Strength |
+| $500 | Dragon's Breath <br> **Warning: Very dangerous** |
+| $300 | Knight's Strength |
 
 <h2>Apple Ciders</h2>
 
@@ -31,7 +31,7 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 | $20 | Fine Beer |
 | $20 | Fine Darkbeer |
 | $40 | Jenever | 
-| $860 | Ender Beer | 
+| $500 | Ender Beer | 
 | $30 | Bailey |
 
 <h2>Mead</h2>
@@ -57,7 +57,7 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 | $20 | Brandy |
 | $20 | Strong Absinthe |
 | $100 | Green Absinthe <br> **Warning: Very dangerous** |
-| $200 | Gin |
+| $120 | Gin |
 | $350 | Fisherman Flask |
 | $100 | Tequila |
 | $50 | Acaì |
@@ -66,7 +66,7 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 <h2>Non-Alcoholic Drinks</h2>
 
 | $50 | Coffee |
-| $100 | Iced Coffee |
+| $50 | Iced Coffee |
 | $50 | Hot Chocolate |
 | $50 | Sparkling Water |
 
@@ -75,5 +75,5 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 | $20 | Tea |
 | $50 | Sweet Tea |
 | $50 | Chocolate Cinnamon Tea |
-| $50 | Forest Berry Tea |
+| $150 | Forest Berry Tea |
 | $120 | Kombuncha | 
