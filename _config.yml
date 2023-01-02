@@ -19,7 +19,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   A site for selling all sorts of items across Ashai and Stoneworks.
 minimal_mistakes_skin: sunrise
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
