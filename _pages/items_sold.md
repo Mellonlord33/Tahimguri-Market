@@ -24,8 +24,23 @@ feature_row:
     url: "/items/misc/"
     btn_class: "btn--primary"
     btn_label: "Check Out"
+
+atu_row:
+  - image_path: /assets/images/atu_img.png
+    alt: "Atu's"
+    title: "Atu's Tavern"
+    excerpt: "Need a place to relax? Come down to my bar, serving a variety of high-quality drinks, alcoholic and non-alcoholic, with both small & large alcohol contents, with the menu and all the prices listed out here!"
+    url: "/items/atu_tav/"
+    btn_class: "btn--primary"
+    btn_label: "Check Out"
 ---
 
 <br>
 
+<h1>Tahimguri Brewery</h1>
+<hr style="height:5px; visibility:hidden;" />
 {% include feature_row %}
+
+<h1>Partner Businesses</h1>
+<hr style="height:5px; visibility:hidden;" /> 
+{% include atu_row %}
