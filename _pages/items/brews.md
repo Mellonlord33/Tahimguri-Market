@@ -5,7 +5,7 @@ title: "Brews"
 ---
 
 **NOTICE:**<br>
-All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju" will cost $400.
+All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju" will cost $400. Not all drinks listed here are ready to buy directly from chest shop.
 
 *All Deliveries / Dead Drop Purchases will include a 10% fee.*
 
