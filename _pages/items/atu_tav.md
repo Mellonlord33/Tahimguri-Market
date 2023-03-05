@@ -31,7 +31,13 @@ title: "Atu's Tavern"
 | Coffee | $40 |
 | 4-Star Chocolate Cinnamon Tea | $30 |
 
+<h2>Utility</h2>
+
+| Haste 5<sup>1</sup> | $225 |
+
 <h2>Store Information</h2>
 
 **Coordinates:** -4264 / 149 / -5709<br>
 Umakwa, KoyukuMarket_7
+
+**1.** Bulk orders of Haste 5 can be brought for $180 (30 brews or more).
