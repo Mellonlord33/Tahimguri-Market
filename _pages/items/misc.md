@@ -11,6 +11,6 @@ All items under miscellaneous are on-demand. Purchases must be made via order fo
 
 <h2>Items for Sale</h2>
 
-| $3,500 | \| Eff IV, Unb III Diamond Pickaxe |
-| $40 | \| Obsidian |
+| $3,000 | \| Eff IV, Unb III Diamond Pickaxe or Shovel or Axe |
+| $4000 | \| Eff IV, Unb III, Fort III or Silk Diamond Pickaxe or Shovel or Axe |
 | Varies | \| Enchanting / Lore Service <br>\| **Price varies by material, enchantments, lore, etc* |
