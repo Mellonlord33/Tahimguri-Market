@@ -11,9 +11,11 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 
 <h2>Specialty Drinks</h2>
 
-| $200 | Kin-Soju |
-| $500 | Dragon's Breath <br> **Warning: Very dangerous** |
-| $300 | Knight's Strength |
+| $200 | Kin-Soju | A type of Vodka, good for parties. |
+| $500 | Dragon's Breath <br> **Warning: Very dangerous** | Creates a cloud of Dragon's Breath on ground beneath user. |
+| $300 | Knight's Strength | Gives drinker haste. |
+| $300 | Felix Felicis | Luck III for 300s. Poison for 20s, no alc. |
+| $300 | Infelicis Felicis | Unluck X for 300s, slowness for 180s, no alc. |
 
 <h2>Apple Ciders</h2>
 
