@@ -5,9 +5,7 @@ title: "Potions"
 ---
 
 **NOTICE:**<br>
-Any Splash Potions brought will increase the price of any brew by $70. All prices presented are for buying a **single** potion of that type.
-
-*All Deliveries / Dead Drop Purchases will include a 10% fee.*
+All prices presented are for buying a **single** potion of that type. *All Deliveries / Dead Drop Purchases will include a 10% fee.*
 
 | $90 | \| Health II | *160$ Splash* |
 | $45 | \| Swiftness II | *115$ Splash* |
