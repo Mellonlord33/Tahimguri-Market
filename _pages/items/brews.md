@@ -11,8 +11,8 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 
 <h2>Specialty Drinks</h2>
 
-| $200 | Kin-Soju | A type of Vodka, good for parties. |
-| $500 | Dragon's Breath <br> **Warning: Very dangerous** | Creates a cloud of Dragon's Breath on ground beneath user. |
+| $120 | Kin-Soju | A type of Vodka, good for parties. |
+| $300 | Dragon's Breath <br> **Warning: Very dangerous** | Creates a cloud of Dragon's Breath on ground beneath user. |
 | $300 | Knight's Strength | Gives drinker haste. |
 | $300 | Felix Felicis | Luck III for 300s. Poison for 20s, no alc. |
 | $300 | Infelicis Felicis | Unluck X for 300s, slowness for 180s, no alc. |
@@ -60,9 +60,8 @@ All prices listed are for a **single** drink purchase. I.e. buying two "Kin-Soju
 | $80 | Punsch | 
 | $20 | Brandy |
 | $20 | Strong Absinthe |
-| $100 | Green Absinthe <br> **Warning: Very dangerous** |
+| $100 | Green Absinthe |
 | $120 | Gin |
-| $350 | Fisherman Flask |
 | $100 | Tequila |
 | $50 | Acaì |
 | $50 | Premium Sake |
